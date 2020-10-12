@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Beach Resort
+
+This project was created with the udemy course React Tutorial and Projects Course.
+
+
 
 ## Available Scripts
 
